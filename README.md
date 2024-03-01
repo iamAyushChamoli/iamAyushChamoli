@@ -1,5 +1,4 @@
-@ -1,16 +1,13 @@
-### Hi there 👋
+ Hi there, I'm Ayush Chamoli
 <h3 align="center">MERN Stack Developer | SEO Tech Lead</h3>
 
 <!--
