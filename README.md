@@ -1,4 +1,4 @@
- Hi there, I'm Ayush Chamoli
+<h2> Hi there, I'm Ayush Chamoli</h2>
 <h3 align="center">MERN Stack Developer | SEO Tech Lead</h3>
 
 <!--
